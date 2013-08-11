@@ -4,5 +4,7 @@
 /home/forest/projects/voicelink/bin/classes/co/voicelink/BuildConfig.class \
 /home/forest/projects/voicelink/bin/classes/co/voicelink/R.class \
 /home/forest/projects/voicelink/bin/classes/co/voicelink/InboxActivity.class \
+/home/forest/projects/voicelink/bin/classes/co/voicelink/R$style.class \
 /home/forest/projects/voicelink/bin/classes/co/voicelink/R$string.class \
+/home/forest/projects/voicelink/bin/classes/co/voicelink/R$drawable.class \
 /home/forest/projects/voicelink/bin/dexedLibs/annotations-141021af4baf8310521e0ec83489c05c.jar \
